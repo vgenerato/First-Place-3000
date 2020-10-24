@@ -1,5 +1,8 @@
 # First-Place-3000
 
+![](https://img.shields.io/github/repo-size/vgenerato/First-Place-3000)
+
+
 O projeto é referente a um jogo de corrida feito em python utilizando a biblioteca PyGame. 
 Foi desenvolvido na disciplina de Algoritmos e Programação II, disponível na grade do 2º semestre de Ciência da Computação. 
 
